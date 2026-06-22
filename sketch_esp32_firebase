@@ -13,7 +13,7 @@
 #define WIFI_PASSWORD "xxxxx"
 
 // Firebase
-#define Web_API_KEY "AIzaSyApPn0MupJTKrvhaX9sb6pewxwzhwlsVFY"
+#define Web_API_KEY "AIzaSy***"
 #define DATABASE_URL "https://iot-itts-dht22-default-rtdb.asia-southeast1.firebasedatabase.app/"
 
 // Firebase Authentication
